@@ -1,0 +1,33 @@
+{
+  "name": "mosic",
+  "version": "1.0.0",
+  "description": "echo Mocha + Sinon + Chai as a single setup + other stuff maybe",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Floby/mosic.git"
+  },
+  "keywords": [
+    "mocha",
+    "sinon",
+    "chai",
+    "bundle",
+    "sinon-chai"
+  ],
+  "author": "Florent Jaby <florent.jaby@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Floby/mosic/issues"
+  },
+  "homepage": "https://github.com/Floby/mosic#readme",
+  "dependencies": {
+    "chai": "^4.1.2",
+    "chai-as-promised": "^7.1.1",
+    "mocha": "^5.0.5",
+    "sinon": "^4.5.0",
+    "sinon-chai": "^3.0.0"
+  }
+}
