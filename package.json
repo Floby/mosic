@@ -1,6 +1,6 @@
 {
   "name": "mosic",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "echo Mocha + Sinon + Chai as a single setup + other stuff maybe",
   "main": "index.js",
   "scripts": {
