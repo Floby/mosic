@@ -6,6 +6,9 @@
   "scripts": {
     "test": "mocha test"
   },
+  "bin": {
+    "mosic": "bin/mosic.js"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Floby/mosic.git"
